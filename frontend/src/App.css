@@ -1,0 +1,14 @@
+/* Styles specific to the App component */
+
+/* Example styles for App component */
+.App {
+    text-align: center;
+  }
+  
+  /* Basic container styling */
+  .container {
+    width: 80%;
+    margin: 0 auto;
+    padding: 20px;
+  }
+  

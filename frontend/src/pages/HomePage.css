@@ -1,0 +1,17 @@
+/* Styles for HomePage component */
+
+.homepage {
+    padding: 20px;
+  }
+  
+  .homepage-header {
+    font-size: 2rem;
+    margin-bottom: 20px;
+  }
+  
+  .homepage-content {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  
